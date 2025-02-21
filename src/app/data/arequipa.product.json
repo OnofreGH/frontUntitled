@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "nombre": "Arroz Premium 1kg",
+      "marca": "Arroz del Valle",
+      "precio": 1.50,
+      "categoria": "Granos",
+      "origen": "Estados Unidos",
+      "fechaCaducidad": "2026-12-31",
+      "descripcion": "Arroz de grano largo, perfecto para todo tipo de recetas."
+    },
+    {
+      "id": 2,
+      "nombre": "Pan de Molde Integral 500g",
+      "marca": "Panadería Real",
+      "precio": 2.00,
+      "categoria": "Panadería",
+      "origen": "México",
+      "fechaCaducidad": "2025-03-01",
+      "descripcion": "Pan integral, rico en fibra y nutrientes, ideal para el desayuno."
+    },
+    {
+      "id": 3,
+      "nombre": "Pollo Entero Fresco 1.5kg",
+      "marca": "Pollo Fresco",
+      "precio": 4.99,
+      "categoria": "Carnes",
+      "origen": "Colombia",
+      "fechaCaducidad": "2025-02-22",
+      "descripcion": "Pollo de calidad, fresco y listo para ser cocinado."
+    },
+    {
+      "id": 4,
+      "nombre": "Huevos Orgánicos (Caja 12 unidades)",
+      "marca": "Granja La Esperanza",
+      "precio": 3.50,
+      "categoria": "Lácteos y Huevos",
+      "origen": "Argentina",
+      "fechaCaducidad": "2025-02-28",
+      "descripcion": "Huevos frescos de gallinas alimentadas con productos orgánicos."
+    },
+    {
+      "id": 5,
+      "nombre": "Aceite Vegetal 1L",
+      "marca": "Aceites del Sur",
+      "precio": 2.80,
+      "categoria": "Aceites",
+      "origen": "Ecuador",
+      "fechaCaducidad": "2026-12-31",
+      "descripcion": "Aceite 100% vegetal, ideal para freír y cocinar."
+    },
+    {
+      "id": 6,
+      "nombre": "Azúcar Blanca 500g",
+      "marca": "Azúcar del Sol",
+      "precio": 1.20,
+      "categoria": "Endulzantes",
+      "origen": "Perú",
+      "fechaCaducidad": "2025-10-01",
+      "descripcion": "Azúcar refinada, perfecta para endulzar bebidas y postres."
+    }
+  ]
+  
